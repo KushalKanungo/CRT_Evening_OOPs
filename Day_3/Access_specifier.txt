@@ -1,0 +1,15 @@
+<---Access Specifier--->
+
+  1. private
+  2. public
+  3. protected
+
+Class ---> virtual/template/specifications
+           collection of properties and behaviours
+           or collection of data and methods
+
+           eg. Human (class) ---> 'kushal' is object of human class 
+           eg. Fruit (class) ---> apple, orange, are object of fruit class
+           eg. furniture(class) ----> chair, table, sofa are objects 
+
+Object ---> instance/ real world entity /consumes space or memory 
