@@ -1,0 +1,21 @@
+class
+  1. data
+    a. static data (class data)
+    b. non-static data (instance data)
+  2. methods
+    a. static methods
+    b. non-static methods
+access specifier
+  1. public
+  2. protected 
+  3. private (by defualt)
+
+
+class 
+  1. static members
+      a. data
+      b. methods
+  
+  2. non-static members
+      a. data
+      b. methods
